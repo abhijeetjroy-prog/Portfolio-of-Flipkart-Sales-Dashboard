@@ -28,6 +28,9 @@ The project is also showcased using a **custom HTML portfolio page** for profess
 | 🛍 Avg Product Price | 50.67 |
 | 🧾 Avg Units per Order | 2.51K |
 
+  ## Dashboard Preview
+![Dashboard](Flipkart Image2.jpg)
+
 ## 🔍 Key Insights
 
 - **Strong Overall Sales Performance**  
@@ -57,8 +60,6 @@ The project is also showcased using a **custom HTML portfolio page** for profess
 - **Seasonal and Regional Sales Variation Exists**  
   Sales fluctuate across cities and categories, indicating opportunities for **targeted promotions and inventory planning**.
 
-  ## Dashboard Preview
-![Dashboard](Image.jpg)
 
 ## Author
 Abhijeet Roy  
@@ -66,8 +67,16 @@ Data Analyst | Power BI | SQL | Python | Excel | R Programming
 
 ## Contact
 Email: abhijeetjroy@gmail.com  
-LinkedIn: linkedin.com/in/abhijeet-roy-83975a310
+LinkedIn: linkedin.com/in/abhijeet-roy-83975a310  
 Github: https://github.com/abhijeetjroy-prog
+Feel free to connect with me for collaboration, feedback, or data analytics opportunities.
+
+Flipkart-Dashboard-Analytics/
+│── Flipkart Image2.jpg
+│── PowerBI_Dashboard.pbix
+│── index.html
+│── Style.css
+│── README.md
 
 
 
