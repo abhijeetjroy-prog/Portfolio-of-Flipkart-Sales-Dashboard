@@ -61,22 +61,31 @@ The project is also showcased using a **custom HTML portfolio page** for profess
   Sales fluctuate across cities and categories, indicating opportunities for **targeted promotions and inventory planning**.
 
 
-## Author
-Abhijeet Roy  
-Data Analyst | Power BI | SQL | Python | Excel | R Programming
+## 👤 Author
 
-## Contact
-Email: abhijeetjroy@gmail.com  
-LinkedIn: linkedin.com/in/abhijeet-roy-83975a310  
-Github: https://github.com/abhijeetjroy-prog
+**Abhijeet Roy**  
+Data Analyst | Power BI | SQL | Python  
+
+Passionate data analyst with a strong interest in transforming raw data into actionable insights through interactive dashboards and data storytelling.
+
+---
+
+## 📬 Contact Information
+
+- 📧 **Email:** abhijeetjroy@gmail.com  
+- 🔗 **LinkedIn:** https://linkedin.com/in/abhijeet-roy-83975a310  
+- 💻 **GitHub:** https://github.com/abhijeetjroy-prog  
+
 Feel free to connect with me for collaboration, feedback, or data analytics opportunities.
 
-Flipkart-Dashboard-Analytics/
-│── Flipkart Image2.jpg
-│── PowerBI_Dashboard.pbix
-│── index.html
-│── Style.css
-│── README.md
+
+Flipkart-Sales-Dashboard/
+├── Flipkart_Dashboard.pbix
+├── Flipkart Image2.jpg
+├── index.html
+├── Style.css
+└── README.md
+
 
 
 
