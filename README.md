@@ -16,6 +16,9 @@ The project is also showcased using a **custom HTML portfolio page** for profess
 - Measure **logistics efficiency** using delivery metrics
 
 ---
+## 🖼 Dashboard Preview
+
+![Flipkart Dashboard](Flipkart Image2.jpg)
 
 ## 📊 Key Performance Indicators (KPIs)
 
@@ -27,10 +30,6 @@ The project is also showcased using a **custom HTML portfolio page** for profess
 | ⭐ Avg Product Rating | 3.0 / 5 |
 | 🛍 Avg Product Price | 50.67 |
 | 🧾 Avg Units per Order | 2.51K |
-
-  ## 🖼 Dashboard Preview
-
-![Flipkart-Sales-Dashboard](Flipkart Image2.jpg)
 
 ## 🔍 Key Insights
 
