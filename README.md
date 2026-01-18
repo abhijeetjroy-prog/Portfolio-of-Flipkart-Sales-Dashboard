@@ -28,8 +28,9 @@ The project is also showcased using a **custom HTML portfolio page** for profess
 | 🛍 Avg Product Price | 50.67 |
 | 🧾 Avg Units per Order | 2.51K |
 
-  ## Dashboard Preview
-![Dashboard](Flipkart Image2.jpg)
+  ## 🖼 Dashboard Preview
+
+![Flipkart-Sales-Dashboard](Flipkart Image2.jpg)
 
 ## 🔍 Key Insights
 
