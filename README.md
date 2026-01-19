@@ -21,6 +21,8 @@ The project is also showcased using a **custom HTML portfolio page** for profess
 
 ![Flipkart Dashboard](Flipkart Image2.jpg)
 
+---
+
 ## 📊 Key Performance Indicators (KPIs)
 
 | Metric | Value |
