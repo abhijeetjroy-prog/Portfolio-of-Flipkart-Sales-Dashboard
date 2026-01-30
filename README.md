@@ -59,7 +59,7 @@ The project is also showcased using a **custom HTML portfolio page** for profess
 
 ## 🖼 Dashboard Preview
 
-![Flipkart Dashboard](Flipkart_Image.jpg)
+![Flipkart Dashboard](Flipkart.jpg)
 
 ## 👤 Author
 
