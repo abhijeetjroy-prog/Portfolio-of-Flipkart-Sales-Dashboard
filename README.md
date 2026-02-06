@@ -57,9 +57,6 @@ The project is also showcased using a **custom HTML portfolio page** for profess
 - **Seasonal and Regional Sales Variation Exists**  
   Sales fluctuate across cities and categories, indicating opportunities for **targeted promotions and inventory planning**.
 
-## 🖼 Dashboard Preview
-
-![Flipkart Dashboard](Flipkart.jpg)
 
 ## 👤 Author
 
